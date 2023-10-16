@@ -4,6 +4,7 @@ from rich.console import Console
 
 console = Console(color_system="auto")
 
+
 def main():
     # Initialize instances of each class
     starship = Starship("USS Enterprise", 100, 80, 200)

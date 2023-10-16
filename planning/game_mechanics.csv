@@ -1,0 +1,14 @@
+Mechanic Name,Source Game,Mechanic Description,Can be Procedural-Generated (bool),Can do in 2D (bool)
+Ship Customization,FTL: Faster Than Light,Allows players to customize their spaceship's layout and systems.,True,True
+Resource Management,FTL: Faster Than Light,"Players must manage fuel, crew, and other resources.",True,True
+Real-time Combat,FTL: Faster Than Light,Combat occurs in real-time but can be paused for tactical decisions.,True,True
+Fleet Management,Star Trek Online,Players can manage multiple ships and assign them to various tasks.,True,False
+Character Customization,Star Trek Online,Players can customize the appearance and skills of their character.,False,True
+Trading,Elite: Dangerous,Players can trade goods between different star systems.,True,False
+Exploration,Elite: Dangerous,"Players can explore a vast galaxy, discovering new planets and anomalies.",True,False
+Mining,Eve Online,Players can mine asteroids for resources.,True,False
+Corporations,Eve Online,"Players can join or create corporations, essentially player-run companies.",False,True
+Building Mode,The Sims 3 Creator Mode,Players can design and build houses.,True,True
+Social Interactions,The Sims 3 Creator Mode,Players can control the social interactions between characters.,False,True
+Colony Management,Rimworld/Dwarf Fortress,"Players manage a colony, including its resources and inhabitants.",True,True
+Random Events,Rimworld/Dwarf Fortress,Random events can occur that the player must adapt to.,True,True
